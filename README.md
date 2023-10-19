@@ -1,4 +1,4 @@
 # Projeto Dio - Relatório 
 
 # Sobre:
-Um Relatório detalhado usando Power Bi.
+Neste repositório, usando Power BI, desenvolvemos um relatório detalhado do samples_financials.
